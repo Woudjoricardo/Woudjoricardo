@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Woudjoricardo
 - 👀 I’m interested in front-end dev
-- 🌱 I’m currently learning js php and mysql
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning javaScript, php and mysql
+- 💞️ I’m looking to collaborate on all
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: je
+- ⚡ Fun fact: videos game
 
 <!---
 Woudjoricardo/Woudjoricardo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
