@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Woudjoricardo
-- 👀 I’m interested in front-end dev
-- 🌱 I’m currently learning javaScript, php and mysql
+- 👀 I’m interested in fullstack dev
+- 🌱 I’m currently learning javaScript, php and mysql, sqlite
 - 💞️ I’m looking to collaborate on all
 - 📫 How to reach me ...
 - 😄 Pronouns: je
