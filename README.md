@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ricardo
+- 👋 Hi, I’m Kaizen
 - 👀 I’m interested in (fullstack) web dev,apps and videos games dev, cybersecurity 
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on all
